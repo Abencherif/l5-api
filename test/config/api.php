@@ -215,7 +215,7 @@ return [
 
     'formats' => [
 
-        'json' => Specialtactics\L5Api\Http\Response\Format\Json::class,
+        'json' => Abencherif\L5Api\Http\Response\Format\Json::class,
 
     ],
 

@@ -2,7 +2,7 @@
 
 namespace App\Models\Policies;
 
-use Specialtactics\L5Api\Policies\RestfulModelPolicy;
+use Abencherif\L5Api\Policies\RestfulModelPolicy;
 use App\Models\User;
 
 class BasePolicy extends RestfulModelPolicy

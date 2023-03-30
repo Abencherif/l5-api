@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Console\Commands;
+namespace Abencherif\L5Api\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;

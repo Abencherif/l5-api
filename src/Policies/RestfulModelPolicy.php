@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Policies;
+namespace Abencherif\L5Api\Policies;
 
 use Illuminate\Auth\Access\HandlesAuthorization;
 

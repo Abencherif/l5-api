@@ -1,9 +1,9 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Unit\Helpers;
+namespace Abencherif\L5Api\Tests\Unit\Helpers;
 
-use Specialtactics\L5Api\Tests\AppTestCase;
-use Specialtactics\L5Api\Helpers;
+use Abencherif\L5Api\Tests\AppTestCase;
+use Abencherif\L5Api\Helpers;
 
 class KeyCaseTest extends AppTestCase
 {

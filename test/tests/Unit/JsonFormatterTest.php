@@ -1,11 +1,11 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Unit;
+namespace Abencherif\L5Api\Tests\Unit;
 
 use Mockery;
-use Specialtactics\L5Api\APIBoilerplate;
-use Specialtactics\L5Api\Tests\AppTestCase;
-use Specialtactics\L5Api\Http\Response\Format\Json;
+use Abencherif\L5Api\APIBoilerplate;
+use Abencherif\L5Api\Tests\AppTestCase;
+use Abencherif\L5Api\Http\Response\Format\Json;
 
 class JsonFormatterTest extends AppTestCase
 {

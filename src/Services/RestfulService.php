@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Services;
+namespace Abencherif\L5Api\Services;
 
 use Validator;
 use Config;
@@ -11,7 +11,7 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Symfony\Component\HttpKernel\Exception\UnprocessableEntityHttpException;
 use Symfony\Component\HttpKernel\Exception\ConflictHttpException;
 use Dingo\Api\Exception\StoreResourceFailedException;
-use Specialtactics\L5Api\Models\RestfulModel;
+use Abencherif\L5Api\Models\RestfulModel;
 
 /**
  * This class contains logic for processing restful requests

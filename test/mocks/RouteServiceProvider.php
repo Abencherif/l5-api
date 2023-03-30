@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Test\Mocks;
+namespace Abencherif\L5Api\Test\Mocks;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;

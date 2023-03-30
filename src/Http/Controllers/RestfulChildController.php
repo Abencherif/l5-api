@@ -1,13 +1,13 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Controllers;
+namespace Abencherif\L5Api\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Collection;
 use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;
 use Symfony\Component\HttpKernel\Exception\HttpException;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use Specialtactics\L5Api\Helpers;
+use Abencherif\L5Api\Helpers;
 
 class RestfulChildController extends BaseRestfulController
 {

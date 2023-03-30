@@ -1,11 +1,11 @@
 <?php
 
-namespace Specialtactics\L5Api\Exceptions;
+namespace Abencherif\L5Api\Exceptions;
 
 use Throwable;
 use Dingo\Api\Exception\Handler as ExceptionHandler;
-use Specialtactics\L5Api\APIBoilerplate;
-use Specialtactics\L5Api\Helpers;
+use Abencherif\L5Api\APIBoilerplate;
+use Abencherif\L5Api\Helpers;
 
 /**
  * This class extends the Dingo API Exception Handler, and can be used to modify it's functionality, if required

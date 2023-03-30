@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Models;
+namespace Abencherif\L5Api\Models;
 
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Illuminate\Database\Eloquent\ModelNotFoundException;

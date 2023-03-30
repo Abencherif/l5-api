@@ -1,11 +1,11 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Unit;
+namespace Abencherif\L5Api\Tests\Unit;
 
 use App\Models\BaseModel;
 use Mockery;
-use Specialtactics\L5Api\Tests\BaseTestCase;
-use Specialtactics\L5Api\Services\RestfulService;
+use Abencherif\L5Api\Tests\BaseTestCase;
+use Abencherif\L5Api\Services\RestfulService;
 
 class RestfulServiceTest extends BaseTestCase
 {

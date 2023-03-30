@@ -1,13 +1,13 @@
 <?php
 
-namespace Specialtactics\L5Api\Models;
+namespace Abencherif\L5Api\Models;
 
 use Ramsey\Uuid\Uuid;
 use Symfony\Component\HttpKernel\Exception\BadRequestHttpException;
 use Illuminate\Database\Eloquent\Model;
 use App\Transformers\BaseTransformer;
-use Specialtactics\L5Api\Transformers\RestfulTransformer;
-use Specialtactics\L5Api\APIBoilerplate;
+use Abencherif\L5Api\Transformers\RestfulTransformer;
+use Abencherif\L5Api\APIBoilerplate;
 
 class RestfulModel extends Model
 {

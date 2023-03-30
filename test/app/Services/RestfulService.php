@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use \Specialtactics\L5Api\Services\RestfulService as VendorRestfulService;
+use \Abencherif\L5Api\Services\RestfulService as VendorRestfulService;
 
 /**
  * Class RestfulService

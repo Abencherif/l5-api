@@ -1,12 +1,12 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests;
+namespace Abencherif\L5Api\Tests;
 
 use App\Models\User;
 use Illuminate\Contracts\Auth\Authenticatable as UserContract;
 use Illuminate\Foundation\Testing\DatabaseTransactions;
 use JWTAuth;
-use Specialtactics\L5Api\APIBoilerplate;
+use Abencherif\L5Api\APIBoilerplate;
 use UserStorySeeder;
 
 class AppTestCase extends SetupTestApp

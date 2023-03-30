@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Exceptions;
+namespace Abencherif\L5Api\Exceptions;
 
 use Symfony\Component\HttpKernel\Exception\HttpException;
 

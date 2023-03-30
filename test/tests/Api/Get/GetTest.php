@@ -1,8 +1,8 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Api\Get;
+namespace Abencherif\L5Api\Tests\Api\Get;
 
-use Specialtactics\L5Api\Tests\AppTestCase;
+use Abencherif\L5Api\Tests\AppTestCase;
 
 class GetTest extends AppTestCase
 {

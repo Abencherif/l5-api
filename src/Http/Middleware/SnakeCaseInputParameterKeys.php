@@ -1,10 +1,10 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Middleware;
+namespace Abencherif\L5Api\Http\Middleware;
 
 use Closure;
 use Symfony\Component\HttpFoundation\ParameterBag;
-use Specialtactics\L5Api\Helpers;
+use Abencherif\L5Api\Helpers;
 
 /**
  * Class SnakeCaseInputParameterKeys

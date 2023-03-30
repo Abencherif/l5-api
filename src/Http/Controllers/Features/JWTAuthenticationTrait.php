@@ -1,10 +1,10 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Controllers\Features;
+namespace Abencherif\L5Api\Http\Controllers\Features;
 
 use Illuminate\Http\Request;
 use Dingo\Api\Http\Response;
-use Specialtactics\L5Api\Exceptions\UnauthorizedHttpException;
+use Abencherif\L5Api\Exceptions\UnauthorizedHttpException;
 
 trait JWTAuthenticationTrait
 {

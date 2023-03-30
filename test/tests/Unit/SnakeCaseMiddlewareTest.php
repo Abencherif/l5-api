@@ -1,11 +1,11 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Unit;
+namespace Abencherif\L5Api\Tests\Unit;
 
 use Dingo\Api\Http\Request;
 use Mockery;
-use Specialtactics\L5Api\Http\Middleware\SnakeCaseInputParameterKeys;
-use Specialtactics\L5Api\Tests\BaseTestCase;
+use Abencherif\L5Api\Http\Middleware\SnakeCaseInputParameterKeys;
+use Abencherif\L5Api\Tests\BaseTestCase;
 
 class SnakeCaseMiddlewareTest extends BaseTestCase
 {

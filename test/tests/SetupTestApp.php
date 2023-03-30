@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests;
+namespace Abencherif\L5Api\Tests;
 
 use JWTAuth;
 use Mockery;
@@ -9,7 +9,7 @@ use Mockery;
  * This class sets up the necessary testing infrastructure
  *
  * Class TestingSetup
- * @package Specialtactics\L5Api\Tests
+ * @package Abencherif\L5Api\Tests
  */
 class SetupTestApp extends BaseTestCase
 {
@@ -71,9 +71,9 @@ class SetupTestApp extends BaseTestCase
         return [
             \PHPOpenSourceSaver\JWTAuth\Providers\LaravelServiceProvider::class,
             \Dingo\Api\Provider\LaravelServiceProvider::class,
-            \Specialtactics\L5Api\L5ApiServiceProvider::class,
-            \Specialtactics\L5Api\Test\Mocks\AppServiceProvider::class,
-            \Specialtactics\L5Api\Test\Mocks\RouteServiceProvider::class,
+            \Abencherif\L5Api\L5ApiServiceProvider::class,
+            \Abencherif\L5Api\Test\Mocks\AppServiceProvider::class,
+            \Abencherif\L5Api\Test\Mocks\RouteServiceProvider::class,
         ];
     }
 

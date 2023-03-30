@@ -1,15 +1,15 @@
-[![Build Status](https://travis-ci.com/specialtactics/l5-api.svg?branch=master)](https://travis-ci.com/specialtactics/l5-api)
+[![Build Status](https://travis-ci.com/abencherif/l5-api.svg?branch=master)](https://travis-ci.com/abencherif/l5-api)
 [![StyleCI](https://github.styleci.io/repos/131504248/shield?branch=master)](https://github.styleci.io/repos/131504248)
-[![Github All Releases](https://img.shields.io/packagist/dt/specialtactics/l5-api.svg)]()
-[![Github All Releases](https://img.shields.io/packagist/dm/specialtactics/l5-api.svg)]()
+[![Github All Releases](https://img.shields.io/packagist/dt/abencherif/l5-api.svg)]()
+[![Github All Releases](https://img.shields.io/packagist/dm/abencherif/l5-api.svg)]()
 
 ## Laravel API Boilerplate Dependency Package
 
-This is a supporting / dependency package used by the [Laravel API Boilerplate](https://github.com/specialtactics/laravel-api-boilerplate). Please have a look at that project for all documentation.
+This is a supporting / dependency package used by the [Laravel API Boilerplate](https://github.com/abencherif/laravel-api-boilerplate). Please have a look at that project for all documentation.
 
 ## Quick reference for versions
 
-Please go to [The boilerplate wiki](https://github.com/specialtactics/laravel-api-boilerplate/wiki) for full info.
+Please go to [The boilerplate wiki](https://github.com/abencherif/laravel-api-boilerplate/wiki) for full info.
 
 | Laravel Version | Boilerplate Version | Minimum PHP Version | Support Status |
 |-----------------|---------------------|---------------------|----------------|

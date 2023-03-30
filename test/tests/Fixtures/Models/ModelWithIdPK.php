@@ -1,8 +1,8 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Fixtures\Models;
+namespace Abencherif\L5Api\Tests\Fixtures\Models;
 
-use Specialtactics\L5Api\Models\RestfulModel;
+use Abencherif\L5Api\Models\RestfulModel;
 
 class ModelWithIdPK extends RestfulModel
 {

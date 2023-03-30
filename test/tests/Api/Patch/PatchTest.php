@@ -1,8 +1,8 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Api\Patch;
+namespace Abencherif\L5Api\Tests\Api\Patch;
 
-use Specialtactics\L5Api\Tests\AppTestCase;
+use Abencherif\L5Api\Tests\AppTestCase;
 
 class PatchTest extends AppTestCase
 {

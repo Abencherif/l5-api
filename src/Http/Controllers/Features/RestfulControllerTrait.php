@@ -1,10 +1,10 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Controllers\Features;
+namespace Abencherif\L5Api\Http\Controllers\Features;
 
 use App\Transformers\BaseTransformer;
 use Illuminate\Http\Request;
-use Specialtactics\L5Api\Helpers;
+use Abencherif\L5Api\Helpers;
 
 trait RestfulControllerTrait
 {

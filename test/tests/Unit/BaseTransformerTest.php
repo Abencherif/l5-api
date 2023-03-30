@@ -1,12 +1,12 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\Unit;
+namespace Abencherif\L5Api\Tests\Unit;
 
 use Ramsey\Uuid\Uuid;
-use Specialtactics\L5Api\Tests\AppTestCase;
-use Specialtactics\L5Api\Tests\Fixtures\Models\ModelWithCasts;
-use Specialtactics\L5Api\Tests\Fixtures\Models\ModelWithIdPK;
-use Specialtactics\L5Api\Transformers\RestfulTransformer;
+use Abencherif\L5Api\Tests\AppTestCase;
+use Abencherif\L5Api\Tests\Fixtures\Models\ModelWithCasts;
+use Abencherif\L5Api\Tests\Fixtures\Models\ModelWithIdPK;
+use Abencherif\L5Api\Transformers\RestfulTransformer;
 
 class BaseTransformerTest extends AppTestCase
 {

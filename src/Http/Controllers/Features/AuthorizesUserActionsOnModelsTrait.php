@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Controllers\Features;
+namespace Abencherif\L5Api\Http\Controllers\Features;
 
 use Illuminate\Contracts\Auth\Access\Gate;
 use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;

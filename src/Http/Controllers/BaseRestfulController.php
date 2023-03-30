@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Controllers;
+namespace Abencherif\L5Api\Http\Controllers;
 
 use App\Services\RestfulService;
 use App\Transformers\BaseTransformer;

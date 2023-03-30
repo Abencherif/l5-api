@@ -1,10 +1,10 @@
 <?php
 
-namespace Specialtactics\L5Api\Transformers;
+namespace Abencherif\L5Api\Transformers;
 
 use League\Fractal\TransformerAbstract;
-use Specialtactics\L5Api\APIBoilerplate;
-use Specialtactics\L5Api\Models\RestfulModel;
+use Abencherif\L5Api\APIBoilerplate;
+use Abencherif\L5Api\Models\RestfulModel;
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 
 class RestfulTransformer extends TransformerAbstract

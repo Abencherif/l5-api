@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use Specialtactics\L5Api\Models\RestfulModel;
+use Abencherif\L5Api\Models\RestfulModel;
 
 class BaseModel extends RestfulModel
 {

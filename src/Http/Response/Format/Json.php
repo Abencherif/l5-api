@@ -1,8 +1,8 @@
 <?php
 
-namespace Specialtactics\L5Api\Http\Response\Format;
+namespace Abencherif\L5Api\Http\Response\Format;
 
-use Specialtactics\L5Api\APIBoilerplate;
+use Abencherif\L5Api\APIBoilerplate;
 
 class Json extends \Dingo\Api\Http\Response\Format\Json
 {

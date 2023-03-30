@@ -1,8 +1,8 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests\A;
+namespace Abencherif\L5Api\Tests\A;
 
-use Specialtactics\L5Api\Tests\BaseTestCase;
+use Abencherif\L5Api\Tests\BaseTestCase;
 
 class FirstTest extends BaseTestCase
 {

@@ -21,7 +21,7 @@ if (! function_exists('camel_case_array_keys')) {
      */
     function camel_case_array_keys($array, $levels = null)
     {
-        return Specialtactics\L5Api\Helpers::camelCaseArrayKeys($array, $levels);
+        return Abencherif\L5Api\Helpers::camelCaseArrayKeys($array, $levels);
     }
 }
 
@@ -37,7 +37,7 @@ if (! function_exists('snake_case_array_keys')) {
      */
     function snake_case_array_keys(array $array, $levels = null)
     {
-        return Specialtactics\L5Api\Helpers::snakeCaseArrayKeys($array, $levels);
+        return Abencherif\L5Api\Helpers::snakeCaseArrayKeys($array, $levels);
     }
 }
 
@@ -53,6 +53,6 @@ if (! function_exists('model_relation_name')) {
      */
     function model_relation_name($resourceName, $relationType = 'many')
     {
-        return Specialtactics\L5Api\Helpers::modelRelationName($resourceName, $relationType);
+        return Abencherif\L5Api\Helpers::modelRelationName($resourceName, $relationType);
     }
 }

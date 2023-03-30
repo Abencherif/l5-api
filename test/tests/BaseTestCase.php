@@ -1,13 +1,13 @@
 <?php
 
-namespace Specialtactics\L5Api\Tests;
+namespace Abencherif\L5Api\Tests;
 
-use Specialtactics\L5Api\APIBoilerplate;
+use Abencherif\L5Api\APIBoilerplate;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 /**
  * Class BaseTestCase
- * @package Specialtactics\L5Api\Tests
+ * @package Abencherif\L5Api\Tests
  */
 class BaseTestCase extends OrchestraTestCase
 {

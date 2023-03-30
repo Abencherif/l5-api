@@ -1,5 +1,5 @@
 {
-  "name": "specialtactics/l5-api",
+  "name": "abencherif/l5-api",
   "description": "Dependencies for the Laravel API Boilerplate package",
   "keywords": ["laravel", "boilerplate", "api"],
   "license": "MIT",
@@ -28,14 +28,14 @@
   },
   "autoload": {
     "psr-4": {
-      "Specialtactics\\L5Api\\": "src/"
+      "Abencherif\\L5Api\\": "src/"
     },
     "files": ["helpers/helpers.php"]
   },
   "autoload-dev": {
     "psr-4": {
-      "Specialtactics\\L5Api\\Tests\\": "test/tests/",
-      "Specialtactics\\L5Api\\Test\\Mocks\\": "test/mocks/",
+      "Abencherif\\L5Api\\Tests\\": "test/tests/",
+      "Abencherif\\L5Api\\Test\\Mocks\\": "test/mocks/",
       "App\\": "test/app/"
     },
     "classmap": ["test/database/seeds/", "test/database/factories/"]
@@ -43,7 +43,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Specialtactics\\L5Api\\L5ApiServiceProvider"
+        "Abencherif\\L5Api\\L5ApiServiceProvider"
       ]
     }
   },

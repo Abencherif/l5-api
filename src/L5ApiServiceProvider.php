@@ -1,6 +1,6 @@
 <?php
 
-namespace Specialtactics\L5Api;
+namespace Abencherif\L5Api;
 
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Routing\Router;
